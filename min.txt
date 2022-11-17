@@ -1,1 +1,2 @@
 Hello from min
+min says hello again
